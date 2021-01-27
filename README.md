@@ -31,7 +31,6 @@ Thease are:
 On successful verification, you will get the below json response:
 <br>
 <pre>{"type":"success","msg":"Transaction Verified"}</pre>
-<br>
 If any error occur, you will also get proper error message.
 
 <br>
